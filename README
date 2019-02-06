@@ -1,1 +1,4 @@
 This is my README file.
+ServiceNow Integration doesnt want to play nice with additional files that I add -- which are NOT part of SNOW instance.
+Attempts to Sync up the code on the public Developer Instance with the GitHub project resulted in deletion of pre-existing files.
+To save developer specific notes that I create or discover, need a safe and relatable side-project with similar name.
